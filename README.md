@@ -1,6 +1,6 @@
-#Playwright Test Automation Project - Singlish to Sinhala Transliteration
+Playwright Test Automation Project - Singlish to Sinhala Transliteration
 
-###ITPM - ITPM - Assignment 01 
+ITPM - ITPM - Assignment 01 
 
 ## 👤 Student Information
 | Field | Details |
